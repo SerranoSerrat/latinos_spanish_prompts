@@ -134,5 +134,3 @@ how socially far are considered Latinos relative to Spanish/Moroccans.
 Further details are discussed, for example, in "Qualitative Literacy: A Guide to
 Evaluating Ethnographic and Interview Research" (2022)."""
 ```
-
-**Note:** The `GENERAL_INSTRUCTIONS` block above was already written in English in the source document, so it is reproduced as-is (untranslated) to preserve it exactly as the chatbot system prompt would use it.

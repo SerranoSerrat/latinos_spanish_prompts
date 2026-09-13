@@ -17,10 +17,6 @@ Returns JSON: participantid, block, score (0–10), confidence, evidence.
 
 ## Input format
 
-Built by the Python driver from `segmentation_results.csv` — one block's
-worth of turns, both speakers, in order. The AI turns are kept because the
-interviewer's follow-ups often ask "why", and the respondent's answer to
-"why" is what settles the score.
 
 ```
 PARTICIPANT_ID: R_8eQshZouUL0cDKh
